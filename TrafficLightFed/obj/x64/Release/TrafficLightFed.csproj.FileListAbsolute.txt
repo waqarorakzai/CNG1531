@@ -1,0 +1,10 @@
+F:\CNG13351\testdir\tms\TrafficLightFed\bin\x64\Release\TrafficLightFed.exe.config
+F:\CNG13351\testdir\tms\TrafficLightFed\bin\x64\Release\TrafficLightFed.exe
+F:\CNG13351\testdir\tms\TrafficLightFed\bin\x64\Release\TrafficLightFed.pdb
+F:\CNG13351\testdir\tms\TrafficLightFed\bin\x64\Release\Racon.dll
+F:\CNG13351\testdir\tms\TrafficLightFed\bin\x64\Release\Racon.RtiLayer.dll
+F:\CNG13351\testdir\tms\TrafficLightFed\bin\x64\Release\Racon.RtiLayer.Native.dll
+F:\CNG13351\testdir\tms\TrafficLightFed\obj\x64\Release\TrafficLightFed.csprojAssemblyReference.cache
+F:\CNG13351\testdir\tms\TrafficLightFed\obj\x64\Release\TrafficLightFed.csproj.CopyComplete
+F:\CNG13351\testdir\tms\TrafficLightFed\obj\x64\Release\TrafficLightFed.exe
+F:\CNG13351\testdir\tms\TrafficLightFed\obj\x64\Release\TrafficLightFed.pdb
